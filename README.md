@@ -92,33 +92,29 @@ Parent Notification System
 Admin Dashboard
 
 Cloud Storage
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/69ab1ff4-df28-4c8f-9a2a-9a719b8bfd6f" />
+
 
 
 ## Output
 
-#### Output1 -  QR Scan & Boarding Validation
+#### Output1 - Home page
 
-✔ Displays student details
+<img width="1563" height="1013" alt="image" src="https://github.com/user-attachments/assets/12955b3c-76a3-4f9b-9ea8-b111a9e776d5" />
 
-✔ Confirms boarding and updates seat count
 
-#### Output2 -  Bus Capacity & Alternative Bus Suggestion
+#### Output2 -  Student's Dashboard
 
-✔ Shows "Bus Full"
+<img width="1561" height="1017" alt="image" src="https://github.com/user-attachments/assets/d26289b6-1452-4e2b-bdd9-d1765b4d2a1f" />
 
-✔ Suggests next route bus (e.g., Bus 9B)
 
-#### Output 3 – Real-Time GPS Tracking
+#### Output 3 – Parent's Dashboard
 
-✔ Shows live bus movement on map
+<img width="1564" height="1020" alt="image" src="https://github.com/user-attachments/assets/bb0cd77b-eeec-43fa-a2ad-31354b7f7660" />
 
-✔ Displays speed, ETA, and route
+#### Output 4 – Driver's Dashboard
 
-#### Output 4 – Overspeed / Anomaly Alert
-
-✔ AI engine sends instant alerts
-
-✔ Notifies parents and admin
+<img width="1563" height="1019" alt="image" src="https://github.com/user-attachments/assets/d94d7cde-ea9f-4a30-800d-2018c066edb4" />
 
 ## Results and Impact
 
