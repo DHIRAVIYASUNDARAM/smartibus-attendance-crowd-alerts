@@ -100,21 +100,22 @@ Cloud Storage
 
 #### Output1 - Home page
 
-<img width="1563" height="1013" alt="image" src="https://github.com/user-attachments/assets/12955b3c-76a3-4f9b-9ea8-b111a9e776d5" />
+<img width="544" height="823" alt="image" src="https://github.com/user-attachments/assets/4b7399e0-0a8f-4c79-b84c-06d52dc85617" />
+
 
 
 #### Output2 -  Student's Dashboard
 
-<img width="1561" height="1017" alt="image" src="https://github.com/user-attachments/assets/d26289b6-1452-4e2b-bdd9-d1765b4d2a1f" />
+<img width="588" height="619" alt="image" src="https://github.com/user-attachments/assets/a1604e25-9f13-47be-b4d4-06669aabfe4c" />
 
 
 #### Output 3 – Parent's Dashboard
 
-<img width="1564" height="1020" alt="image" src="https://github.com/user-attachments/assets/bb0cd77b-eeec-43fa-a2ad-31354b7f7660" />
+<img width="727" height="387" alt="image" src="https://github.com/user-attachments/assets/339e0590-ffc2-4137-ac4e-9d9792a734d7" />
 
 #### Output 4 – Driver's Dashboard
 
-<img width="1563" height="1019" alt="image" src="https://github.com/user-attachments/assets/d94d7cde-ea9f-4a30-800d-2018c066edb4" />
+<img width="715" height="380" alt="image" src="https://github.com/user-attachments/assets/ad42a9b7-6760-431f-b586-127722921449" />
 
 ## Results and Impact
 
